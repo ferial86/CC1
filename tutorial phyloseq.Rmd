@@ -363,4 +363,4 @@ plot_ordination(pslog, out.wuf.log, color = "age_binned",
   coord_fixed(sqrt(evals[2] / evals[1])) +
   labs(col = "Binned Age", shape = "Litter")
 ```
-..
+...
